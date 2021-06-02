@@ -1,0 +1,15 @@
+  Thunderstorm rain 1 - <img src="https://img.icons8.com/ios/100/000000/storm--v1.png"/>
+  Thunderstorm 1 - <img src="https://img.icons8.com/ios/100/000000/cloud-lighting--v1.png"/>
+  drizzle 1 -  <img src="https://img.icons8.com/ios/100/000000/light-rain--v2.png"/>
+  rain 2 n-<img src="https://img.icons8.com/ios/100/000000/heavy-rain.png"/>
+  d-<img src="https://img.icons8.com/ios/100/000000/partly-cloudy-rain--v1.png"/>
+  snow 1 <img src= />
+  Sleet 1 <img src="https://img.icons8.com/ios/100/000000/sleet.png"/>
+  fog n-<img src="https://img.icons8.com/ios/100/000000/fog-night--v1.png"/>
+  d-<img src="https://img.icons8.com/ios/100/000000/fog-day--v1.png"/>
+Clear sky 2 n-<img src="https://img.icons8.com/ios/100/000000/bright-moon.png"/>
+d-<img src="https://img.icons8.com/ios/100/000000/sun--v1.png"/>
+Few clouds 2 - n-<img src="https://img.icons8.com/ios/100/000000/partly-cloudy-night--v1.png"/>
+d- <img src="https://img.icons8.com/ios/100/000000/partly-cloudy-day--v1.png"/>
+Overcast clouds 1 <img src="https://img.icons8.com/ios/100/000000/cloud.png"/>
+
